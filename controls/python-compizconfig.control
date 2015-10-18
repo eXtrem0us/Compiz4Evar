@@ -1,0 +1,18 @@
+Package: python-compizconfig
+Source: compizconfig-python
+Version: 0.8.4-2
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 336
+Depends: python (<< 2.8), python (>= 2.5), python-support (>= 0.90.0), libc6 (>= 2.2.5), libcompizconfig0, libglib2.0-0 (>= 2.12.0), libice6 (>= 1:1.0.0), libsm6, libstartup-notification0 (>= 0.10), libx11-6, libxcomposite1 (>= 1:0.3-1), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxfixes3 (>= 1:4.0.1), libxinerama1, libxml2 (>= 2.6.27), libxrandr2, libxslt1.1 (>= 1.1.18)
+Section: x11
+Priority: extra
+Homepage: http://www.compiz-fusion.org
+Description: Compizconfig bindings for python
+ Compiz Fusion is the result of the re-unification of the Beryl-project
+ and the community around the Compiz Window Manager. It seeks to provide
+ an easy and fun-to-use windowing environment, allowing use of the
+ graphics hardware to provide impressive effects, amazing speed and
+ unrivalled usefulness
+ .
+ This package provides python bindings for the compizconfig system.

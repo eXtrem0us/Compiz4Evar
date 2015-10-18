@@ -1,0 +1,18 @@
+Package: compiz-fusion-plugins-main
+Source: compiz-fusion-plugins-main (0.8.4-2)
+Version: 0.8.4-2+b1
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 7136
+Depends: libc6 (>= 2.3), libcairo2 (>= 1.2.4), libglib2.0-0 (>= 2.12.0), libglu1-mesa | libglu1, libice6 (>= 1:1.0.0), libjpeg62-turbo (>= 1:1.4.1-2), libpango1.0-0 (>= 1.14.0), libsm6, libstartup-notification0 (>= 0.10), libx11-6, libxcomposite1 (>= 1:0.3-1), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxfixes3 (>= 1:4.0.1), libxinerama1, libxml2 (>= 2.7.4), libxrandr2, libxrender1, libxslt1.1 (>= 1.1.25), compiz-core-abiversion-20090619
+Section: x11
+Priority: extra
+Description: Compiz Fusion plugins - main collection
+ Compiz Fusion is the result of the re-unification of the Beryl-project
+ and the community around the Compiz Window Manager. It seeks to provide
+ an easy and fun-to-use windowing environment, allowing use of the
+ graphics hardware to provide impressive effects, amazing speed and
+ unrivalled usefulness.
+ .
+ This package provides the primary and most well tested set of plugins
+ from the compiz-fusion project.
