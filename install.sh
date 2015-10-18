@@ -1,6 +1,3 @@
-# Hello! This is eXtrem0us!
-# 
-#
 #!/bin/bash
 
 #Download all reguired .deb packages from debian repository
