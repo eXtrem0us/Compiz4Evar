@@ -7,7 +7,7 @@ if you are using debian stretch / sid
 
 and you have had a good memory about great UX with Compiz in Ubuntu 9.04,9.10,10.04,...
 
-and you miss those days and you are seeking to have the same experiment in Mate-Desktop (or xfce, or any desktop, which supports compositing window managers...)
+and you miss those days and you are seeking to have the same experience in Mate-Desktop (or xfce, or any desktop, which supports compositing window managers...)
 
 ...so, this is what you are looking for!
 
