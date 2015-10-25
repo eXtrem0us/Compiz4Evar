@@ -86,7 +86,7 @@ sudo ln -s /usr/lib/pyshared/python2.6/compizconfig.so /usr/local/lib/python2.7/
 sudo ln -s /usr/lib/pyshared/python2.6/compizconfig.so /usr/local/lib/python2.7/dist-packages/compizconfig.so
 sudo cp scripts/Utils.py /usr/share/pyshared/ccm/
 
-# These binaries have been extracted from Fedora Mate-Compiz Spin
+# These scripts have been extracted from Fedora Mate-Compiz Spin
 # https://spins.fedoraproject.org/mate-compiz/
 #-----copy appropreate shell binaries to /usr/bin
 sudo cp bin/* /usr/bin/
