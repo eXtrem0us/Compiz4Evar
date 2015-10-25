@@ -13,7 +13,7 @@ wget -t 0 http://ftp.debian.org/debian/pool/main/c/control-center/libgnome-windo
 wget -t 0 http://ftp.debian.org/debian/pool/main/c/compiz/compiz-gnome_0.8.4-4_amd64.deb
 wget -t 0 http://ftp.debian.org/debian/pool/main/c/compiz/compiz_0.8.4-4_all.deb
 
-#CompizCompiz Setting Manager
+#CompizConfig Setting Manager
 wget -t 0 http://ftp.debian.org/debian/pool/main/c/compiz-fusion-plugins-main/compiz-fusion-plugins-main_0.8.4-2+b1_amd64.deb
 wget -t 0 http://ftp.debian.org/debian/pool/main/c/compiz-fusion-plugins-extra/compiz-fusion-plugins-extra_0.8.4-2_amd64.deb
 wget -t 0 http://ftp.debian.org/debian/pool/main/c/compiz-fusion-plugins-unsupported/compiz-fusion-plugins-unsupported_0.8.4-3_amd64.deb
