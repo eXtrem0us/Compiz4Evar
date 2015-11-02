@@ -94,5 +94,5 @@ sudo cp bin/* /usr/bin/
 
 #ToDo: Add above binaries' shortcuts to main menu
 #ToDo: Fix incompatibilities between compiz and window's close,restore,minimize buttons, in Mate-Desktop
-#ToDo: import compizuser.profile settings, without manual workouts in CompizConfig Setting Manager
+#ToDo: import eXtrem0us.profile settings, without manual workouts in CompizConfig Setting Manager
 
