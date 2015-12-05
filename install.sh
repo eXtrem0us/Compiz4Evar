@@ -29,7 +29,7 @@ wget -t 0 http://mirror.pnl.gov/ubuntu//pool/universe/e/emerald/emerald_0.7.2-0u
 wget -t 0 http://packages.linuxmint.com/pool/main/e/emerald-themes/emerald-themes_0.7-mint2~julia_all.deb
 
 #-----installing compiz:
-sudo apt-get install mesa-utils
+sudo apt-get install mesa-utils libgconf2-4
 sudo dpkg -i compiz-core_0.8.4-4_amd64.deb
 sudo dpkg -i libdecoration0_0.8.4-4_amd64.deb
 sudo dpkg -i compiz-plugins_0.8.4-4_amd64.deb
